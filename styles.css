@@ -1,0 +1,39 @@
+.heading {
+    background-color: rgb(186, 206, 223);
+    padding: 2.5rem;
+    color: rgb(0, 57, 107);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 2px 5px 8px rgb(216, 216, 216);
+}
+
+.step {
+    background-color: rgb(186, 206, 223); 
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 5px 8px rgb(216, 216, 216);
+    color: rgb(0, 62, 116);
+}
+
+.step a{
+    text-decoration: none;
+    color: rgb(0, 28, 53);
+}
+
+.step a:hover{
+    color: rgb(0, 121, 235);
+}
+
+.example{
+    box-shadow: 3px 5px 8px rgb(216, 216, 216);
+}
+
+.help{
+    background-color: rgb(228, 228, 228);
+    box-shadow: 2px 5px 8px rgb(216, 216, 216);
+    border-radius: 5px;
+}
+
+.body{
+    background-color: rgb(241, 241, 241);
+}
